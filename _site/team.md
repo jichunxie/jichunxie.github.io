@@ -18,7 +18,7 @@ Our lab is now recruiting new Ph.D. students. Please contact me if you are inter
 
 &nbsp;
 
-## Past Trainees
+## Alumni
 
 ### PhD students
 
