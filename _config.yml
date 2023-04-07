@@ -1,0 +1,5 @@
+remote_theme: pages-themes/cayman@v0.2.0
+title: Welcome to Xie Lab!
+description:
+plugins:
+- jekyll-remote-theme 
