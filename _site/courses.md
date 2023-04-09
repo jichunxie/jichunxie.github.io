@@ -1,4 +1,4 @@
-# Courses
+# Teaching
 
 ## Math 590-02: Quantitative Methods for Biomedical Data
 Fall 2020 — present

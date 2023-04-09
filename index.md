@@ -13,12 +13,3 @@ Here is my [CV](./files/CV-JX-2023.pdf).
 <span style="color:red"> **We are recruiting lab members!** </span>
 Our lab is now recruiting new Ph.D. students. Please contact me if you are interested.
 
-
-**Contact Information**\\
-Department of Biostatistics and Bioinformatics\\
-Department of Mathematics\\
-Duke University\\
-Hock Plaza 10048\\
-2424 Erwin Road\\
-Durham, NC 27705\\
-jichun DOT xie AT duke DOT edu
