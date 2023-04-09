@@ -335,7 +335,7 @@ a:hover { text-decoration: underline; }
 .site-footer2-contact-info .email-address { display: inline; }
 
 /* Style the footer navigation container */
-.site-footer2-nav { display: inline-block; color: #fff; margin-left: 8rem; vertical-align: top; }
+.site-footer2-nav { display: inline-block; color: #fff; margin-left: 4rem; vertical-align: top; }
 
 /* Style the footer navigation items */
 .site-footer2-nav ul { list-style-type: none; padding: 0; margin: 0; }
