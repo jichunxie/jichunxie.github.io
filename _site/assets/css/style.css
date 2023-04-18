@@ -323,24 +323,24 @@ a:hover { text-decoration: underline; }
 .site-footer-credits { color: #819198; }
 
 /* Style the footer */
-.site-footer2 { color: #fff; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); padding-top: 2rem 0; margin-top: 2rem; display: flex; justify-content: space-between; padding: 20px; flex-wrap: wrap; }
+.site-footer2 { color: #f8f8f8; background-color: #159957; background-image: linear-gradient(120deg, #155799, #159957); padding-top: 2rem 0; margin-top: 2rem; display: flex; justify-content: space-between; padding: 20px; flex-wrap: wrap; }
 
 @media screen and (min-width: 64em) { .site-footer2 { padding: 2rem 6rem; margin: 0 auto; font-size: 1rem; } }
 @media screen and (min-width: 42em) and (max-width: 64em) { .site-footer2 { padding: 2rem 4rem; font-size: 1rem; } }
 @media screen and (max-width: 42em) { .site-footer2 { padding: 2rem 1rem; font-size: 0.9rem; } }
 /* Style the contact information container */
-.site-footer2-contact-info { display: block; float: left; font-weight: bold; }
+.site-footer2-contact-info { display: block; float: left; font-weight: normal; }
 
 /* Style the email address to make it look more natural */
 .site-footer2-contact-info .email-address { display: inline; }
 
 /* Style the footer navigation container */
-.site-footer2-nav { color: #fff; vertical-align: top; }
+.site-footer2-nav { vertical-align: top; }
 
 /* Style the footer navigation items */
 .site-footer2-nav ul { list-style-type: none; padding: 0; margin: 0; }
 
 /* Style the footer navigation links */
-.site-footer2-nav a { color: #fff; text-decoration: none; }
+.site-footer2-nav a { color: #f8f8f8; text-decoration: none; }
 
 .site-footer2-nav li { display: inline; margin: 0 10px; }
