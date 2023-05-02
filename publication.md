@@ -2,7 +2,6 @@
 
 ## Preprints
 
-- 
 - Li, X, Pura, J, Allen, A, Owzar, K, Harms, M and **Xie, J**. (2023+) Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. [[*bioRxiv*]](https://www.biorxiv.org/content/10.1101/2022.12.01.518706v1).
 
 - Li, X, Sung, A. and **Xie, J**. (2023+) DART: Distance Assisted Recursive Testing.  Accepted by *Journal of Machine Learning Research*. [[*Arxiv*]](https://arxiv.org/abs/2103.11085).
