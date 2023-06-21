@@ -2,24 +2,24 @@
 
 ## Preprints
 
-- Li, X, Pura, J, Allen, A, Owzar, K, Harms, M and **Xie, J**. (2023+) Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. [[*bioRxiv*]](https://www.biorxiv.org/content/10.1101/2022.12.01.518706v1).
+- Li, X; Pura, J; Allen, A; Owzar, K; Harms, M; and **Xie, J**. (2023+) Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. [[*bioRxiv*]](https://www.biorxiv.org/content/10.1101/2022.12.01.518706v1).
 
 
 ## 2023
 
-- Li, X, Sung, A. and **Xie, J**. DART: Distance Assisted Recursive Testing. *Journal of Machine Learning Research* (2023): 24(169), 1−41, 2023.
+- Li, X; Sung, A; and **Xie, J**. DART: Distance Assisted Recursive Testing. *Journal of Machine Learning Research* (2023): 24(169), 1−41, 2023.
 
-- Pura, J, Li, X, Chan, C, and **Xie, J**. TEAM: A Multiple Testing Algorithm on the Aggregation Tree for Flow Cytometry Analysis. *Annals of Applied Statistics* (2023): 17(1), 621-640.
+- Pura, J; Li, X; Chan, C; and **Xie, J**. TEAM: A Multiple Testing Algorithm on the Aggregation Tree for Flow Cytometry Analysis. *Annals of Applied Statistics* (2023): 17(1), 621-640.
 
-- Poe, J., Fang, J., Zhang, D., Lee, M.R., DiCioccio, R., Su, H., Qin, X., Zhang, J.Y., Visentin, J., Bracken, S.J., Ho, V.T., Wang, K.S., Rose, J.J., Hakim, F.T., Jia, W., Suthers, A.N., Curry-Chisolm, T.M., Horwitz, M.E., Rizzierri, D.A., McManigle, W.C., Chao, N.J., Cardones, A.R., **Xie, J.**, Owzar, K., Sarantopoulos, S. Single-cell landscape analysis unravels molecular programming of the human B cell compartment in chronic GVHD. *JCI Insights* (2023). https://doi.org/10.1172/jci.insight.169732
+- Poe, J; Fang, J; Zhang, D; Lee, MR; DiCioccio, R; Su, H; Qin, X; Zhang, JY; Visentin, J; Bracken, SJ; Ho, VT; Wang, KS; Rose, JJ; Hakim, FT; Jia, W; Suthers, AN; Curry-Chisolm, TM; Horwitz, ME; Rizzierri, DA; McManigle, WC; Chao, NJ; Cardones, AR; **Xie, J**; Owzar, K; and Sarantopoulos, S. Single-cell landscape analysis unravels molecular programming of the human B cell compartment in chronic GVHD. *JCI Insights* (2023). https://doi.org/10.1172/jci.insight.169732
 
-- Murdoch, D.M.; Barfield, R.; Chan, C.; Towe, S.L.; Bell, R.P.; Volkheimer, A.; Choe, J.; Hall, S.A.; Berger, M.; **Xie, J.**; Meade, C.S. Neuroimaging and immunological features of neurocognitive function related to substance use in people with HIV. *Journal of NeuroVirology* (2023): 29(1), 78-93.
+- Murdoch, DM; Barfield, R; Chan, C; Towe, SL; Bell, RP; Volkheimer, A; Choe, J; Hall, SA; Berger, M; **Xie, J**; Meade, CS. Neuroimaging and immunological features of neurocognitive function related to substance use in people with HIV. *Journal of NeuroVirology* (2023): 29(1), 78-93.
 
-- Moris, D., Barfield, R., Chan, C., Chasse, S., Stempora, L., **Xie, J.**, Plichta, J.K., Thacker, J., Harpole, D.H., Purves, T., Lagoo-Deenadayalan, S., Hwang, E.S., Kirk, A.D. Immune Phenotype and Postoperative Complications following Elective Surgery. *Annals of Surgery* (2023): 1528-1140. https://doi.org/10.1097/SLA.0000000000005864
+- Moris, D; Barfield, R; Chan, C; Chasse, S; Stempora, L; **Xie, J**; Plichta, JK; Thacker, J; Harpole, DH; Purves, T; Lagoo-Deenadayalan, S; Hwang, ES; Kirk, AD. Immune Phenotype and Postoperative Complications following Elective Surgery. *Annals of Surgery* (2023): 1528-1140. https://doi.org/10.1097/SLA.0000000000005864
 
 ## 2022
 
-- Fang, J, Chan, C, Owzar, K, Wang, L, Qin, D, Li Q, and **Xie, J**. Clustering Deviation Index (CDI): A robust and accurate internal measure for evaluating scRNA-seq data clustering. *Genome Biology* (2022) 23: 269. https://doi.org/10.1186/s13059-022-02825-5.
+- Fang, J; Chan, C; Owzar, K; Wang, L; Qin, D; Li Q; and **Xie, J**. Clustering Deviation Index (CDI): A robust and accurate internal measure for evaluating scRNA-seq data clustering. *Genome Biology* (2022) 23: 269. https://doi.org/10.1186/s13059-022-02825-5.
 
 - NIH SenNet Consortium to map senescent cells throughout the human lifespan to understand physiological health. (Listed as a consortium coauthor) *Nature aging* (2022): 2(12), 1090-1100.
   
