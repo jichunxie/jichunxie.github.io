@@ -1,5 +1,9 @@
 # Software
 
+- **DART**: Distance Assisted Recursive Testing
+  - [paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jmlr.org/papers/volume24/22-1131/22-1131.pdf) [JMLR, 2023]
+  - [R package](https://github.com/jichunxie/DART)
+
 - **TEAM**: A multiple testing algorithm on the aggregation tree for flow cytometry analysis.
   - [paper](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-17/issue-1/TEAM--A-multiple-testing-algorithm-on-the-aggregation-tree/10.1214/22-AOAS1645.short) [AOAS, 2023]
   - [R package](https://cran.r-project.org/web/packages/TEAM/index.html)
