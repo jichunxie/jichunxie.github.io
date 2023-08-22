@@ -1,26 +1,28 @@
 # Team
 
-<span style="color:red"> **We are recruiting lab members!** </span>
-Our lab is now recruiting new Ph.D. students. Please contact me if you are interested.
-
 ## Current Trainees
 
 ###  Postdocs
-- Tuhin Mujumder (Postdoc, co-advised with Cliburn Chan)
+- Carson Mosso
+- Tuhin Mujumder (co-advised with Cliburn Chan)
+- Yuxia Xie
 
-### PhD students
-- Qi Gao (PhD, Biostatistics)
-- Orlando Ferrer (PhD, Mathematics )
+### Ph.D. students
+- Orlando Ferrer (Mathematics)
+- Qi Gao (Biostatistics)
 
 ### MB students
-- Yiren Shao (MB, Biostaistics)
-- Jintong Zhao (MB, Biostatistics)
+- Xiaohui Jiang (Biostatistics)
+- Yaoyao Li (Biostatistics)
+- Jilin Tian (Biostatistics)
+- Jintong Zhao (Biostatistics)
 
 &nbsp;
 
+
 ## Alumni
 
-### PhD students
+### Ph.D. students
 
 - John Pura — Currently at Durham Department of Veterans Affairs
 - Jiyuan Fang  — Currently at Eli Lilly
@@ -28,6 +30,7 @@ Our lab is now recruiting new Ph.D. students. Please contact me if you are inter
  
 ### MB students
 
+- Yiren Shao - Currently at Dana-Farber Cancer Institute
 - Xiaodi Qin  — Currently at Duke DCI Bioinformatics
 - Jenny Zhuo — Currently at Eli Lilly
 - Ruqian Cheng — Currently at Eli Lilly
