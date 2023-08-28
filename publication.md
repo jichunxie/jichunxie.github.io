@@ -7,6 +7,8 @@
 
 - Pura, J; Li, X; Chan, C; and **Xie, J**. TEAM: A Multiple Testing Algorithm on the Aggregation Tree for Flow Cytometry Analysis. *Annals of Applied Statistics* (2023): 17(1), 621-640.
 
+- Hou, L; Ji, Z; Wang, J; and **Xie, J**. Editorial: Statistical and computational methods for single-cell sequencing analysis. *Frontiers in Genetics* (2023): Sec. Statistical Genetics and Methodology, Volume 14. https://doi.org/10.3389/fgene.2023.1235174
+
 - Poe, J; Fang, J; Zhang, D; Lee, MR; DiCioccio, R; Su, H; Qin, X; Zhang, JY; Visentin, J; Bracken, SJ; Ho, VT; Wang, KS; Rose, JJ; Hakim, FT; Jia, W; Suthers, AN; Curry-Chisolm, TM; Horwitz, ME; Rizzierri, DA; McManigle, WC; Chao, NJ; Cardones, AR; **Xie, J**; Owzar, K; and Sarantopoulos, S. Single-cell landscape analysis unravels molecular programming of the human B cell compartment in chronic GVHD. *JCI Insights* (2023). https://doi.org/10.1172/jci.insight.169732
 
 - Murdoch, DM; Barfield, R; Chan, C; Towe, SL; Bell, RP; Volkheimer, A; Choe, J; Hall, SA; Berger, M; **Xie, J**; Meade, CS. Neuroimaging and immunological features of neurocognitive function related to substance use in people with HIV. *Journal of NeuroVirology* (2023): 29(1), 78-93.
