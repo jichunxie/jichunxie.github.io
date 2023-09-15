@@ -9,7 +9,6 @@
 
 ### Ph.D. students
 - Orlando Ferrer (Mathematics)
-- Qi Gao (Biostatistics)
 
 ### MB students
 - Xiaohui Jiang (Biostatistics)
@@ -24,14 +23,17 @@
 
 ### Ph.D. students
 
-- John Pura — Currently at Durham Department of Veterans Affairs
-- Jiyuan Fang  — Currently at Eli Lilly
+- Qi Gao - Current postdoc researcher at the University of Michigan
 - Xuechan Li  — Currently at Novartis
+- Jiyuan Fang  — Currently at Eli Lilly
+- John Pura — Currently at Durham Department of Veterans Affairs
  
 ### MB students
 
 - Yiren Shao - Currently at Dana-Farber Cancer Institute
-- Xiaodi Qin  — Currently at Duke DCI Bioinformatics
-- Jenny Zhuo — Currently at Eli Lilly
-- Ruqian Cheng — Currently at Eli Lilly
 - Aihua Li — Currently Ph.D. student at Duke DSS
+- Ruqian Cheng — Currently at Eli Lilly
+- Jenny Zhuo — Currently at Eli Lilly
+- Xiaodi Qin  — Currently at Duke DCI Bioinformatics
+
+
