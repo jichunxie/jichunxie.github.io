@@ -3,6 +3,8 @@
 
 ## 2023
 
+- Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2023). In press.
+
 - Li, X; Sung, A; and **Xie, J**. DART: Distance Assisted Recursive Testing. *Journal of Machine Learning Research* (2023): 24(169), 1−41, 2023.
 
 - Pura, J; Li, X; Chan, C; and **Xie, J**. TEAM: A Multiple Testing Algorithm on the Aggregation Tree for Flow Cytometry Analysis. *Annals of Applied Statistics* (2023): 17(1), 621-640.
