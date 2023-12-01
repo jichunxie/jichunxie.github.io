@@ -3,7 +3,7 @@
 
 ## 2023
 
-- Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2023). In press.
+- Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2023). https://onlinelibrary.wiley.com/doi/10.1002/gepi.22542
 
 - Li, X; Sung, A; and **Xie, J**. DART: Distance Assisted Recursive Testing. *Journal of Machine Learning Research* (2023): 24(169), 1−41, 2023.
 
@@ -15,7 +15,7 @@
 
 - Murdoch, DM; Barfield, R; Chan, C; Towe, SL; Bell, RP; Volkheimer, A; Choe, J; Hall, SA; Berger, M; **Xie, J**; Meade, CS. Neuroimaging and immunological features of neurocognitive function related to substance use in people with HIV. *Journal of NeuroVirology* (2023): 29(1), 78-93.
 
-- Moris, D; Barfield, R; Chan, C; Chasse, S; Stempora, L; **Xie, J**; Plichta, JK; Thacker, J; Harpole, DH; Purves, T; Lagoo-Deenadayalan, S; Hwang, ES; Kirk, AD. Immune Phenotype and Postoperative Complications following Elective Surgery. *Annals of Surgery* (2023): 1528-1140. https://doi.org/10.1097/SLA.0000000000005864
+- Moris, D; Barfield, R; Chan, C; Chasse, S; Stempora, L; **Xie, J**; Plichta, JK; Thacker, J; Harpole, DH; Purves, T; Lagoo-Deenadayalan, S; Hwang, ES; Kirk, AD. Immune Phenotype and Postoperative Complications following Elective Surgery. *Annals of Surgery* (2023): 278(6), 873-882.
 
 ## 2022
 
