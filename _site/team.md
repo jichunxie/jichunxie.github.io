@@ -1,34 +1,46 @@
 # Team
 
-<span style="color:red"> **We are recruiting lab members!** </span>
-Our lab is now recruiting new Ph.D. students. Please contact me if you are interested.
+## Principal Investigator
 
-## Current Trainees
+<img src="./files/PI-JX.jpg" width="200px" style="float:left; margin-right:50px;">
+
+I am an Associate Professor of Biostatistics and Bioinformatics, with a joint appointment with the Department of Mathematics at Duke University. I am affiliated with the Duke Center of Human Systems Immunology (CHSI),  Duke Cancer Institute (DCI),  and Duke Center of Statistical Genetics and Genomics. My research interest is to develop statistical and computational methods for complex omics and multi-omics data. My research sits at the intersection of Applied Mathematics, Bioinformatics, Biostatistics, Genetics and Genomics, and Machine Learning. I collaborate with many quantitative and biomedical investigators, with a wide spread of research topics in aging, cancer, immunology, neurosurgery, and pulmonary research.
+
+Here is my [CV](./files/CV-JX-2023.pdf).
+
+## Trainees
 
 ###  Postdocs
-- Tuhin Mujumder (Postdoc, co-advised with Cliburn Chan)
+- Carson Mosso
+- Tuhin Mujumder (co-advise with Cliburn Chan)
+- Yuxia Xie
 
-### PhD students
-- Qi Gao (PhD, Biostatistics)
-- Orlando Ferrer (PhD, Mathematics )
+### Ph.D. students
+- Orlando Ferrer (Mathematics)
 
 ### MB students
-- Yiren Shao (MB, Biostaistics)
-- Jintong Zhao (MB, Biostatistics)
+- Xiaohui Jiang (Biostatistics)
+- Yaoyao Li (Biostatistics)
+- Jilin Tian (Biostatistics)
+- Jintong Zhao (Biostatistics)
 
 &nbsp;
 
 ## Alumni
 
-### PhD students
+### Ph.D. students
 
-- John Pura — Currently at Durham Department of Veterans Affairs
-- Jiyuan Fang  — Currently at Eli Lilly
+- Qi Gao - Current postdoc researcher at the University of Michigan
 - Xuechan Li  — Currently at Novartis
+- Jiyuan Fang  — Currently at Eli Lilly
+- John Pura — Currently at Durham Department of Veterans Affairs
  
 ### MB students
 
-- Xiaodi Qin  — Currently at Duke DCI Bioinformatics
-- Jenny Zhuo — Currently at Eli Lilly
-- Ruqian Cheng — Currently at Eli Lilly
+- Yiren Shao - Currently at Dana-Farber Cancer Institute
 - Aihua Li — Currently Ph.D. student at Duke DSS
+- Ruqian Cheng — Currently at Eli Lilly
+- Jenny Zhuo — Currently at Eli Lilly
+- Xiaodi Qin  — Currently at Duke DCI Bioinformatics
+
+

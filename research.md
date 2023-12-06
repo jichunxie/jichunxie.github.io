@@ -1,6 +1,6 @@
 # Research
 
-Our group is focused on the development of computational and statistical methods for extracting meaningful biological and translational information from data. The aim is to incorporate structural, domain, or side information to increase the analysis’s reliability. Our research sits at the intersection of Statistics, Machine Learning,  Bioinformatics, and Genomics/Cancer/Immunology. The group encourages and promotes collaboration between biomedical and quantitative investigators and between senior and young researchers, including students and postdoctoral trainees.
+Our lab is focused on the development of computational and statistical methods for extracting meaningful biological and translational information from data. The aim is to incorporate structural, domain, or side information to increase the analysis’s reliability. Our research sits at the intersection of Statistics, Machine Learning,  Bioinformatics, and Genomics/Cancer/Immunology. The lab encourages and promotes collaboration between biomedical and quantitative investigators and between senior and young researchers, including students and postdoctoral trainees.
 
 Our current research interests include the following.
 
