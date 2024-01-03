@@ -11,8 +11,8 @@ Here is my [CV](./files/CV-JX-2023.pdf).
 ## Trainees
 
 ###  Postdocs
-- Carson Mosso
-- Tuhin Mujumder (co-advise with Cliburn Chan)
+- [Carson Mosso](https://cmosso.github.io/)
+- [Tuhin Mujumder](https://sites.google.com/view/tuhinmajumderstat/) (co-advise with Cliburn Chan)
 - [Yuxia Xie](https://sites.google.com/view/yuxia-xie/)
 
 ### Ph.D. students
