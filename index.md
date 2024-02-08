@@ -7,6 +7,8 @@ layout: default
 
 &nbsp;
 
-<span style="color:red"> **We are recruiting lab members!** </span>
+# News
+
+- <span style="color:red"> **We are recruiting lab members!** </span>
 Our lab is now recruiting new Postdoc researchers and Ph.D. students. Please contact me if you are interested.
 

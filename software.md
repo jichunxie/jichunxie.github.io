@@ -1,7 +1,11 @@
 # Software
 
+- **DYNATE**: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree.
+  -  [paper](https://onlinelibrary.wiley.com/doi/10.1002/gepi.22542?af=R) [Genetic Epidemiology, 2023]
+  -  [R package](https://github.com/jichunxie/DYNATE)
+
 - **DART**: Distance Assisted Recursive Testing
-  - [paper](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jmlr.org/papers/volume24/22-1131/22-1131.pdf) [JMLR, 2023]
+  - [paper](https://efaidnbmnnnibpcajpcglclefindmkaj/https://www.jmlr.org/papers/volume24/22-1131/22-1131.pdf) [JMLR, 2023]
   - [R package](https://github.com/jichunxie/DART)
 
 - **TEAM**: A multiple testing algorithm on the aggregation tree for flow cytometry analysis.

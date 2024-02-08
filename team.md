@@ -23,6 +23,11 @@ Here is my [CV](./files/CV-JX-2023.pdf).
 - Yaoyao Li (Biostatistics)
 - Jilin Tian (Biostatistics)
 - Jintong Zhao (Biostatistics)
+- Vicky Shao (Biostatistics)
+- Xuanyin Zhao (Biostatistics)
+
+### Undergraduate students
+- Adway Wadekar (Mathematics & Statistics)
 
 &nbsp;
 
