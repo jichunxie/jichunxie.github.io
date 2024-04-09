@@ -1,11 +1,14 @@
 # Publication
 
+## 2024
+
+- Gao, Q; Ji, J; Wang, L; Owzar, K; Li Q; Chan, C; **Xie, J**. SifiNet: A robust and accurate method to identify feature gene sets and annotate cells. *Nucleic Acids Research* (2024+): In press.
+
+- Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2024): 48(1), 42-55.
 
 ## 2023
 
-- Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2023). https://onlinelibrary.wiley.com/doi/10.1002/gepi.22542
-
-- Li, X; Sung, A; and **Xie, J**. DART: Distance Assisted Recursive Testing. *Journal of Machine Learning Research* (2023): 24(169), 1−41, 2023.
+- Li, X; Sung, A; and **Xie, J**. DART: Distance Assisted Recursive Testing. *Journal of Machine Learning Research* (2023): 24(169), 1−41.
 
 - Pura, J; Li, X; Chan, C; and **Xie, J**. TEAM: A Multiple Testing Algorithm on the Aggregation Tree for Flow Cytometry Analysis. *Annals of Applied Statistics* (2023): 17(1), 621-640.
 
