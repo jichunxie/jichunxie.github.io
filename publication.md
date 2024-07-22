@@ -2,7 +2,7 @@
 
 ## 2024
 
-- Gao, Q; Ji, J; Wang, L; Owzar, K; Li Q; Chan, C; **Xie, J**. SifiNet: A robust and accurate method to identify feature gene sets and annotate cells. *Nucleic Acids Research* (2024+): In press.
+- Gao, Q; Ji, J; Wang, L; Owzar, K; Li Q; Chan, C; **Xie, J**. SifiNet: A robust and accurate method to identify feature gene sets and annotate cells. *Nucleic Acids Research* (2024): 52(9): e46.
 
 - Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2024): 48(1), 42-55.
 
