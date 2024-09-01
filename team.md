@@ -20,11 +20,8 @@ Here is my [CV](./files/CV-JX-2023.pdf).
 
 ### MB students
 - Xiaohui Jiang (Biostatistics)
-- Yaoyao Li (Biostatistics)
-- Jilin Tian (Biostatistics)
-- Jintong Zhao (Biostatistics)
+- Mengyao Li (Biostatistics)
 - Vicky Shao (Biostatistics)
-- Xuanyin Zhao (Biostatistics)
 
 ### Undergraduate students
 - Adway Wadekar (Mathematics & Statistics)
@@ -42,10 +39,6 @@ Here is my [CV](./files/CV-JX-2023.pdf).
  
 ### MB students
 
-- Yiren Shao - Currently at Dana-Farber Cancer Institute
-- Aihua Li — Currently Ph.D. student at Duke DSS
-- Ruqian Cheng — Currently at Eli Lilly
-- Jenny Zhuo — Currently at Eli Lilly
-- Xiaodi Qin  — Currently at Duke DCI Bioinformatics
+Jintong Zhao, Xuanyin Zhao, Jilin Tian, Yaoyao Li, Yiren Shao, Aihua Li, Ruqian Cheng, Jenny Zhuo, Xiaodi Qin  
 
 
