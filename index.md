@@ -3,6 +3,7 @@ layout: default
 ---
 
 <img src="./files/lab-photo-2.jpg" style="float:center; margin-right:50px;">
+<img src="./files/lab_social_2024.png" style="float:center; margin-right:50px;">
 
 
 &nbsp;

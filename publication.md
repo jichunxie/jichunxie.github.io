@@ -1,5 +1,9 @@
 # Publication
 
+## 2025
+
+- Shao, Y; Gao, Q; Wang, L; Li, D.; Nixon, A.B.; Chan, C; Li, Q; and **Xie, J**. B-Lightning: Using bait genes for marker gene hunting in single-cell data with complex heterogeneity. *Briefings in Bioinformatics*, Accepted.
+
 ## 2024
 
 - Gao, Q; Ji, J; Wang, L; Owzar, K; Li Q; Chan, C; **Xie, J**. SifiNet: A robust and accurate method to identify feature gene sets and annotate cells. *Nucleic Acids Research* (2024): 52(9): e46.
