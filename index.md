@@ -2,8 +2,10 @@
 layout: default
 ---
 
-<img src="./files/lab-photo-2.jpg" style="float:center; margin-right:50px;">
-<img src="./files/lab_social_2024.png" style="float:center; margin-right:50px;">
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src="./files/lab-photo-2.jpg" style="width: 40%;">
+  <img src="./files/lab_social_2024.png" style="width: 55%;">
+</div>
 
 
 &nbsp;
