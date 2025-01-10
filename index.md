@@ -3,8 +3,8 @@ layout: default
 ---
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="./files/lab-photo-2.jpg" style="width: 40%;">
-  <img src="./files/lab_social_2024.png" style="width: 55%;">
+  <img src="./files/lab-photo-2.jpg" style="width: 42%;">
+  <img src="./files/lab_social_2024.PNG" style="width: 55%;">
 </div>
 
 
