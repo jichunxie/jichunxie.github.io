@@ -2,7 +2,7 @@
 
 ## 2025
 
-- Shao, Y; Gao, Q; Wang, L; Li, D.; Nixon, A.B.; Chan, C; Li, Q; and **Xie, J**. B-Lightning: Using bait genes for marker gene hunting in single-cell data with complex heterogeneity. *Briefings in Bioinformatics*, Accepted.
+- Shao, Y; Gao, Q; Wang, L; Li, D.; Nixon, A.B.; Chan, C; Li, Q; and **Xie, J**. B-Lightning: Using bait genes for marker gene hunting in single-cell data with complex heterogeneity. *Briefings in Bioinformatics* (2025): 26(1), bbaf033.
 
 ## 2024
 
