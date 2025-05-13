@@ -17,14 +17,11 @@ Here is my [CV](./files/CV-JX-2023.pdf).
 
 ### Ph.D. students
 - Orlando Ferrer (Mathematics)
+- Huiyue Li (Biostatistics)
 
 ### MB students
-- Xiaohui Jiang (Biostatistics)
-- Mengyao Li (Biostatistics)
-- Vicky Shao (Biostatistics)
-
-### Undergraduate students
-- Adway Wadekar (Mathematics & Statistics)
+- Will Li (ECE)
+- Finn Guo (ECE)
 
 &nbsp;
 
@@ -39,6 +36,6 @@ Here is my [CV](./files/CV-JX-2023.pdf).
  
 ### MB students
 
-Jintong Zhao, Xuanyin Zhao, Jilin Tian, Yaoyao Li, Yiren Shao, Aihua Li, Ruqian Cheng, Jenny Zhuo, Xiaodi Qin  
+Xiaohui Jiang, Yixuan Shao, Jintong Zhao, Xuanyin Zhao, Jilin Tian, Yaoyao Li, Yiren Shao, Aihua Li, Ruqian Cheng, Jenny Zhuo, Xiaodi Qin  
 
 
