@@ -4,11 +4,17 @@
 
 - Shao, Y; Gao, Q; Wang, L; Li, D.; Nixon, A.B.; Chan, C; Li, Q; and **Xie, J**. B-Lightning: Using bait genes for marker gene hunting in single-cell data with complex heterogeneity. *Briefings in Bioinformatics* (2025): 26(1), bbaf033.
 
+-  Li, S et al. Advancing biological understanding of cellular senescence with computational multiomics. *Nature Genetics* (2025): 57(10), 2381-2394.
+  
+- [Conference] Hotchkiss, KM et al. KS03.4.A spatial multi-omics profiling reveals determinants of TIL expandability in high-grade gliomas. *Neuro-Oncology* (2025): 27, iii8-iii9
+
+- Qu, Y. et al. Single-cell and spatial detection of senescent cells using DeepScence. *Cell Genomics* (2025): 5(12), 101035.
+
 ## 2024
 
 - Gao, Q; Ji, J; Wang, L; Owzar, K; Li Q; Chan, C; **Xie, J**. SifiNet: A robust and accurate method to identify feature gene sets and annotate cells. *Nucleic Acids Research* (2024): 52(9): e46.
 
-- Jiang, X; Xie, Y.; **Xie J.** xMINT: A Multimodal Integration Transformer for Xenium Gene Imputation. *ICML 2024 Worshop on Efficient and Accessible Foundation Models for Biological Discovery*
+- [Conference] Jiang, X; Xie, Y.; **Xie J.** xMINT: A Multimodal Integration Transformer for Xenium Gene Imputation. *ICML 2024 Worshop on Efficient and Accessible Foundation Models for Biological Discovery*
   
 - Li, X; Pura, J; Allen, A; Owzar, K; Lu, J, Harms, M.; and **Xie, J**. DYNATE: Localizing Rare-Variant Association Regions via Multiple Testing Embedded in an Aggregation Tree. *Genetic Epidemiology* (2024): 48(1), 42-55.
 
