@@ -1,6 +1,6 @@
 # Teaching
 
-## Math 590-02: Quantitative Methods for Biomedical Data
+## Math 590-02 --> Math 574: Quantitative Methods for Biomedical Data
 Fall 2020 — present
 
 This course introduces the quantitative methods for analyzing biomedical data, especially data in genomics. This course will start with introducing domain knowledge and then use the form of case studies to introduce commonly used methods and tools in statistics and computer science. We will discuss how to apply these methods and tools to analyze the data and draw insights and tell stories. The course is highly interdisciplinary, focusing on how to translate a biomedical problem into a quantitative problem and apply appropriate quantitative methods and tools to solve it.
